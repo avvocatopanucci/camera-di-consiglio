@@ -107,3 +107,7 @@ stabili. Discussione, voto e sentenza della seconda tornata non sono stati riese
   diciotto finiscono senza verdetto unanime.
 - I progetti che mettono un'idea "sotto processo" davanti a una giuria di agenti, tra cui
   `12-angry-ai-agents` e `court-skill`.
+
+## Licenza
+
+MIT. Vedi [`LICENSE`](LICENSE).
