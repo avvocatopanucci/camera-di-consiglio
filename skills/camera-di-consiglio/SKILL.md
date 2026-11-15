@@ -62,7 +62,10 @@ chiedi; sul resto procedi.
 Scrivi `questioni.md`: l'elenco numerato delle questioni che il collegio voterà, ciascuna
 formulata come domanda con le soluzioni possibili. Ordine: prima le preliminari o
 pregiudiziali, poi il merito (fatto, diritto), poi pena o quantum, poi spese. In appello c'è
-almeno una questione per ogni motivo, e nessuna questione fuori dai motivi. In cassazione solo
+almeno una questione per ogni motivo, e nessuna questione fuori dai motivi, salve quelle
+rilevabili d'ufficio. Una questione rilevabile d'ufficio va tra le preliminari e si inserisce
+solo dopo aver letto con LexItalia la norma che ne consente il rilievo, da citare in
+`questioni.md`; se la norma non si trova, la questione non si inserisce e lo si segnala. In cassazione solo
 questioni di legittimità. Vedi `references/regole.md`.
 
 ### 3. Le parti

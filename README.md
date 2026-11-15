@@ -12,16 +12,22 @@ a maggioranza, e che deve motivare. La skill riproduce questo.
 
 ## Come funziona
 
-1. **Fascicolo e questioni.** Raccoglie i fatti con la fonte di ciascuno, elenca ciò che non
-   risulta dagli atti e formula le questioni da votare.
-2. **Le parti.** Un agente per parte scrive le conclusioni; poi ciascuno replica all'altro.
-3. **Studio alla cieca.** Ogni giudice è un agente separato e scrive la propria opinione senza
-   vedere gli altri. Ciascuno ha un metodo di lettura diverso: dalle prove, dalle norme, dalla
-   tenuta della decisione.
-4. **Discussione.** Ogni giudice legge gli altri e risponde all'argomento contrario più forte.
-5. **Voto.** Uno alla volta, nell'ordine previsto dal codice, con il presidente per ultimo.
-6. **Sentenza.** L'estensore scrive una sentenza motivata; voti e cambi di opinione finiscono
-   in un verbale.
+1. **Fascicolo.** Raccoglie i fatti con il documento da cui ciascuno risulta ed elenca ciò che
+   dagli atti non risulta. Nessun agente può presumere un fatto mancante.
+2. **Questioni.** Formula le questioni da votare, nell'ordine in cui il collegio deve
+   deciderle. In appello c'è una questione per ogni motivo e nessuna al di fuori dei motivi,
+   salve quelle rilevabili d'ufficio.
+3. **Le parti.** Un agente per parte scrive le conclusioni, indicando anche il proprio punto
+   più debole; poi ciascuno replica all'argomento più forte dell'altro.
+4. **Studio alla cieca.** Ogni giudice è un agente separato e studia il fascicolo senza vedere
+   gli altri. Ciascuno ha un metodo di lettura diverso: dalle prove, dalle norme e dagli oneri,
+   dalla tenuta della decisione in caso di impugnazione.
+5. **Discussione.** Ogni giudice legge gli altri, risponde all'argomento contrario più forte e
+   dichiara se mantiene o cambia posizione.
+6. **Voto.** Uno alla volta, nell'ordine previsto dal codice, con il presidente per ultimo.
+7. **Sentenza e verbale.** L'estensore scrive una sentenza con svolgimento, motivi e
+   dispositivo; il verbale registra la posizione di ogni giudice nello studio, nella
+   discussione e nel voto.
 
 Il grado predefinito è l'appello, che è quello che una simulazione sulle carte riproduce
 meglio. Varianti: primo grado collegiale, corte d'assise con i giudici popolari, cassazione, e

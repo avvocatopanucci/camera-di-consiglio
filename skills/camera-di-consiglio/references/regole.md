@@ -67,7 +67,9 @@ Fonte: art. 276 c.p.c. (Deliberazione).
 - **Regola di giudizio.** Onere della prova su chi afferma il fatto; per il nesso causale il
   criterio del "più probabile che non". Quest'ultimo è un criterio giurisprudenziale: nella
   sentenza va indicato come tale, senza estremi di precedenti che non siano nel fascicolo.
-- **Appello.** Una questione per ciascun motivo; ciò che non è stato impugnato non si ridiscute.
+- **Appello.** Una questione per ciascun motivo; ciò che non è stato impugnato non si
+  ridiscute, salve le questioni rilevabili d'ufficio. Quali lo siano non è riportato qui: prima
+  di inserirne una, leggi con LexItalia la norma che ne consente il rilievo e citala.
   Le regole sull'ammissibilità dell'appello e sui nuovi mezzi di prova non sono riportate qui:
   se una questione dipende da esse, leggi la norma con LexItalia prima di formularla.
 
